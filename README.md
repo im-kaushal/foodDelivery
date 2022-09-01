@@ -24,9 +24,9 @@ Firebase- Google Firebase is a Google-backed application development software th
 jQuery- Javascript framework which makes using javascript easy
 
 # Validation while Login
-CSS Pseudo Selectors Constraint used for Validation
-:valid
-:disabled
-:invalid
-:optional
-:required
+CSS Pseudo Selectors Constraint used for Validation-
+    :valid
+    :disabled
+    :invalid
+    :optional
+    :required
