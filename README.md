@@ -15,18 +15,18 @@ Hosted this website on netlify because GitHub does not support firebase.
 
   
 # TOOLS & TECHNOLOGY USED
-HTML- For the skeleton of the website
-CSS- For the styles for web pages
-JAVASCRIPT- For interactive behaviour to web pages
-Angular- A framework for building single-page client applications
-Bootstrap- CSS Framework for developing responsive and mobile-first websites
-Firebase- Google Firebase is a Google-backed application development software that enables developers to develop iOS, Android and Web apps
-jQuery- Javascript framework which makes using javascript easy
+* HTML- For the skeleton of the website
+* CSS- For the styles for web pages
+* JAVASCRIPT- For interactive behaviour to web pages
+* Angular- A framework for building single-page client applications
+* Bootstrap- CSS Framework for developing responsive and mobile-first websites
+* Firebase- Google Firebase is a Google-backed application development software that enables developers to develop iOS, Android and Web apps
+* jQuery- Javascript framework which makes using javascript easy
 
 # Validation while Login
 CSS Pseudo Selectors Constraint used for Validation-
-    :valid
-    :disabled
-    :invalid
-    :optional
-    :required
+   * :valid
+    * :disabled
+    * :invalid
+    * :optional
+    * :required
