@@ -2,11 +2,11 @@
 1. Login Page 
 2. Signup Page 
 3. Home Page 
-    Nav Bar Section 
-    Home Section 
-    Menu Section 
-    Services Section 
-    Footer
+    * Nav Bar Section 
+    * Home Section 
+    * Menu Section 
+    * Services Section 
+    * Footer
   
   
 This is a single-page website that is made with the help of Angular.js
