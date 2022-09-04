@@ -26,7 +26,7 @@ Hosted this website on netlify because GitHub does not support firebase.
 # Validation while Login
 CSS Pseudo Selectors Constraint used for Validation-
    * :valid
-    * :disabled
-    * :invalid
-    * :optional
-    * :required
+   * :disabled
+   * :invalid
+   * :optional
+   * :required
