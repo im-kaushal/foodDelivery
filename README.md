@@ -1,3 +1,9 @@
+![image](https://user-images.githubusercontent.com/70936174/188863502-53210365-c6f6-4b49-b647-cb8d5ed741cb.png)
+
+Login Id: abc@gmail.com
+Password: Welcome@123
+Note: You can sign up and login through your own credentials. 
+
 # Project Overview
 1. Login Page 
 2. Signup Page 
